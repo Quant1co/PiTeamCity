@@ -1,0 +1,14 @@
+D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\bin\Debug\net7.0\PiTeamCity.exe
+D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\bin\Debug\net7.0\PiTeamCity.deps.json
+D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\bin\Debug\net7.0\PiTeamCity.runtimeconfig.json
+D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\bin\Debug\net7.0\PiTeamCity.dll
+D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\bin\Debug\net7.0\PiTeamCity.pdb
+D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.AssemblyInfoInputs.cache
+D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.AssemblyInfo.cs
+D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.csproj.CoreCompileInputs.cache
+D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.dll
+D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\obj\Debug\net7.0\refint\PiTeamCity.dll
+D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.pdb
+D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.genruntimeconfig.cache
+D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\obj\Debug\net7.0\ref\PiTeamCity.dll
