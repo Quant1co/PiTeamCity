@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\pryan\\.nuget\\packages\\": {}
+    "C:\\Users\\Алексей\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Flutter Projects\\PiTeamCity\\PiTeamCity\\PiTeamCity.csproj",
+      "projectUniqueName": "D:\\VS Projects\\PiTeamCity\\PiTeamCity\\PiTeamCity\\PiTeamCity.csproj",
       "projectName": "PiTeamCity",
-      "projectPath": "C:\\Flutter Projects\\PiTeamCity\\PiTeamCity\\PiTeamCity.csproj",
-      "packagesPath": "C:\\Users\\pryan\\.nuget\\packages\\",
-      "outputPath": "C:\\Flutter Projects\\PiTeamCity\\PiTeamCity\\obj\\",
+      "projectPath": "D:\\VS Projects\\PiTeamCity\\PiTeamCity\\PiTeamCity\\PiTeamCity.csproj",
+      "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+      "outputPath": "D:\\VS Projects\\PiTeamCity\\PiTeamCity\\PiTeamCity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

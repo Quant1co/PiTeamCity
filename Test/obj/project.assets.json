@@ -1004,19 +1004,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pryan\\.nuget\\packages\\": {}
+    "C:\\Users\\Алексей\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Flutter Projects\\PiTeamCity\\Test\\Test.csproj",
+      "projectUniqueName": "D:\\VS Projects\\PiTeamCity\\PiTeamCity\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Flutter Projects\\PiTeamCity\\Test\\Test.csproj",
-      "packagesPath": "C:\\Users\\pryan\\.nuget\\packages\\",
-      "outputPath": "C:\\Flutter Projects\\PiTeamCity\\Test\\obj\\",
+      "projectPath": "D:\\VS Projects\\PiTeamCity\\PiTeamCity\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+      "outputPath": "D:\\VS Projects\\PiTeamCity\\PiTeamCity\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1030,8 +1030,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Flutter Projects\\PiTeamCity\\PiTeamCity\\PiTeamCity.csproj": {
-              "projectPath": "C:\\Flutter Projects\\PiTeamCity\\PiTeamCity\\PiTeamCity.csproj"
+            "D:\\VS Projects\\PiTeamCity\\PiTeamCity\\PiTeamCity\\PiTeamCity.csproj": {
+              "projectPath": "D:\\VS Projects\\PiTeamCity\\PiTeamCity\\PiTeamCity\\PiTeamCity.csproj"
             }
           }
         }
@@ -1083,7 +1083,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

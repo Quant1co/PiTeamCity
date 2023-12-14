@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PiTeamCity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccbf784fcf3e0bf73310ce8c15a3d34285b09339")]
 [assembly: System.Reflection.AssemblyProductAttribute("PiTeamCity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PiTeamCity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
