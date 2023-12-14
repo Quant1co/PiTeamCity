@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace PIteamcity
 {
-    internal class Program
+    public class Program
     {
         static void Main()
         {
-            CheckFermatTheorem(1);.
+            CheckFermatTheorem(1);
         }
-        static void CheckFermatTheorem(int n)
+        public static void CheckFermatTheorem(int n)
         {
             for (int a = 1; a < n; a++)
             {

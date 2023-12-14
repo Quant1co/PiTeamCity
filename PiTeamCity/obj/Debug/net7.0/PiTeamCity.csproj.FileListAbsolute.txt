@@ -19,3 +19,10 @@ C:\Flutter Projects\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.csproj.Cor
 C:\Flutter Projects\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.dll
 C:\Flutter Projects\PiTeamCity\PiTeamCity\obj\Debug\net7.0\refint\PiTeamCity.dll
 C:\Flutter Projects\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.pdb
+C:\Flutter Projects\PiTeamCity\PiTeamCity\bin\Debug\net7.0\PiTeamCity.exe
+C:\Flutter Projects\PiTeamCity\PiTeamCity\bin\Debug\net7.0\PiTeamCity.deps.json
+C:\Flutter Projects\PiTeamCity\PiTeamCity\bin\Debug\net7.0\PiTeamCity.runtimeconfig.json
+C:\Flutter Projects\PiTeamCity\PiTeamCity\bin\Debug\net7.0\PiTeamCity.dll
+C:\Flutter Projects\PiTeamCity\PiTeamCity\bin\Debug\net7.0\PiTeamCity.pdb
+C:\Flutter Projects\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.genruntimeconfig.cache
+C:\Flutter Projects\PiTeamCity\PiTeamCity\obj\Debug\net7.0\ref\PiTeamCity.dll
