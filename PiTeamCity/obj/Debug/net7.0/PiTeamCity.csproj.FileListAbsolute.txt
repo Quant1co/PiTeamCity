@@ -12,3 +12,10 @@ D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\obj\Debug\net7.0\refint\PiTeamCi
 D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.pdb
 D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.genruntimeconfig.cache
 D:\VS Projects\PiTeamCity\PiTeamCity\PiTeamCity\obj\Debug\net7.0\ref\PiTeamCity.dll
+C:\Flutter Projects\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Flutter Projects\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.AssemblyInfoInputs.cache
+C:\Flutter Projects\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.AssemblyInfo.cs
+C:\Flutter Projects\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.csproj.CoreCompileInputs.cache
+C:\Flutter Projects\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.dll
+C:\Flutter Projects\PiTeamCity\PiTeamCity\obj\Debug\net7.0\refint\PiTeamCity.dll
+C:\Flutter Projects\PiTeamCity\PiTeamCity\obj\Debug\net7.0\PiTeamCity.pdb
