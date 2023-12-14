@@ -10,7 +10,7 @@ namespace PIteamcity
     {
         static void Main()
         {
-            CheckFermatTheorem(1);....
+            CheckFermatTheorem(1);
         }
         public static void CheckFermatTheorem(int n)
         {
